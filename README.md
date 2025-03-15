@@ -79,4 +79,13 @@ We welcome contributions from engineers, researchers, and developers.
 
 ---
 
+MendUpMindMedTech – (Medical Technology Focus)
+MendUpMindHealth – (General Healthcare Solutions)
+MendUpMindBiomedical – (Biomedical Engineering Focus)
+MendUpMindMedSystems – (For Comprehensive Medical Systems)
+MendUpMindMedDevices – (For Medical Device Development)
+MendUpMindLifeSciences – (Broader Health & Science Approach)
+MendUpMindClinical – (For Clinical and Lab-Based Solutions)
+
+
 ✨ _MendUpMind – Where Technology Meets Precision._ 🚀  
